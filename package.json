@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://Maxa2z.github.io/UseContext_ref/",
+    "homepage": "https://murali4419.github.io/mu419/",
     "scripts": {
         "dev": "vite",
         "predeploy": "npm run build",
